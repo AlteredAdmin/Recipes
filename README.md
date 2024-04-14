@@ -12,6 +12,7 @@ Food i like!
 - [Chipotle Chicken Wrap](https://github.com/AlteredAdmin/Recipes/blob/main/Lunch/Chipotle%20Chicken%20Wrap.md)
 
 ## Dinner
+- [Ginger Tuna](https://github.com/AlteredAdmin/Recipes/blob/main/Dinner/Ginger%20Tuna.md)
 
 ## Snacks
 - [Keto Chocolate Mousse](https://github.com/AlteredAdmin/Recipes/blob/main/Dessert%20%26%20Snacks/Keto%20Chocolate%20Mousse.md)
