@@ -5,6 +5,7 @@ Food i like!
 ## Breakfast
 - [Breakfast Steak Bites](https://github.com/AlteredAdmin/Recipes/blob/main/Breakfast%20/Breakfast%20Steak%20Bites.md)
 - [Shakshuka](https://github.com/AlteredAdmin/Recipes/blob/main/Breakfast%20/Shakshuka.md)
+- [Breakfast Egg Bites](https://github.com/AlteredAdmin/Recipes/blob/main/Breakfast%20/Breakfast%20Egg%20Bites.md)
 
 
 ## Lunch
