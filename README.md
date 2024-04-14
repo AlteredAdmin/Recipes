@@ -14,3 +14,4 @@ Food i like!
 ## Snacks
 
 ## Other
+- [Chimichurri](https://github.com/AlteredAdmin/Recipes/blob/main/Other/Chimichurri.md)
