@@ -13,6 +13,7 @@ Food i like!
 
 ## Dinner
 - [Ginger Tuna](https://github.com/AlteredAdmin/Recipes/blob/main/Dinner/Ginger%20Tuna.md)
+- [Meat Loaf](https://github.com/AlteredAdmin/Recipes/blob/main/Dinner/Meatloaf.md)
 
 ## Dessert & Snacks
 - [Keto Chocolate Mousse](https://github.com/AlteredAdmin/Recipes/blob/main/Dessert%20%26%20Snacks/Keto%20Chocolate%20Mousse.md)
