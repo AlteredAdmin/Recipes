@@ -17,3 +17,4 @@ Food i like!
 
 ## Other
 - [Chimichurri](https://github.com/AlteredAdmin/Recipes/blob/main/Other/Chimichurri.md)
+- [Simple Steak marinade](https://github.com/AlteredAdmin/Recipes/blob/main/Other/Simple%20Steak%20marinade.md)
