@@ -14,7 +14,7 @@
 - toast
 - Shredded Cheese
 
-## Improved Directions:
+## Directions:
 1. Preheat your oven to 375°F (190°C).
 2. In a large ovenproof skillet, melt the butter over medium heat.
 3. Add diced peppers, onions, and minced garlic to the skillet. Sauté until the vegetables are soft and the onions are translucent, about 5-7 minutes.
