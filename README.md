@@ -8,6 +8,7 @@ Food i like!
 
 
 ## Lunch
+[Chipotle Chicken Wrap](https://github.com/AlteredAdmin/Recipes/blob/main/Lunch/Chipotle%20Chicken%20Wrap.md)
 
 ## Dinner
 
